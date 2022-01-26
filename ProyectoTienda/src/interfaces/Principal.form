@@ -41,13 +41,21 @@
                   </Group>
               </Group>
               <EmptySpace pref="32" max="32767" attributes="0"/>
+<<<<<<< HEAD
+              <Component id="jdskPrincipal" min="-2" max="-2" attributes="0"/>
+=======
               <Component id="jDesktopPane1" min="-2" max="-2" attributes="0"/>
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
           </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
+<<<<<<< HEAD
+          <Component id="jdskPrincipal" alignment="0" max="32767" attributes="0"/>
+=======
           <Component id="jDesktopPane1" alignment="0" max="32767" attributes="0"/>
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
               <Component id="jButton1" min="-2" max="-2" attributes="0"/>
@@ -69,7 +77,11 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
+<<<<<<< HEAD
+    <Container class="javax.swing.JDesktopPane" name="jdskPrincipal">
+=======
     <Container class="javax.swing.JDesktopPane" name="jDesktopPane1">
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
 
       <Layout>
         <DimensionLayout dim="0">
@@ -113,6 +125,12 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Registrar Vendedor"/>
       </Properties>
+<<<<<<< HEAD
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+      </Events>
+=======
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
     </Component>
     <Component class="javax.swing.JButton" name="jButton7">
       <Properties>
