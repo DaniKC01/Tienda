@@ -33,6 +33,10 @@ public class PrincipalVendedor extends javax.swing.JFrame {
         jButton3 = new javax.swing.JButton();
         jButton4 = new javax.swing.JButton();
         jButton5 = new javax.swing.JButton();
+<<<<<<< HEAD
+=======
+        jButton6 = new javax.swing.JButton();
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
         jButton7 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -58,6 +62,11 @@ public class PrincipalVendedor extends javax.swing.JFrame {
 
         jButton5.setText("Registrar Cliente");
 
+<<<<<<< HEAD
+=======
+        jButton6.setText("Registrar Vendedor");
+
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
         jButton7.setText("Cerrar Sesion");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -75,6 +84,10 @@ public class PrincipalVendedor extends javax.swing.JFrame {
                         .addComponent(jButton3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
                         .addComponent(jButton7, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+<<<<<<< HEAD
+=======
+                        .addComponent(jButton6, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
                         .addComponent(jButton5, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 32, Short.MAX_VALUE)
                 .addComponent(jDesktopPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -85,6 +98,7 @@ public class PrincipalVendedor extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(55, 55, 55)
                 .addComponent(jButton1)
+<<<<<<< HEAD
                 .addGap(65, 65, 65)
                 .addComponent(jButton2)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 61, Short.MAX_VALUE)
@@ -96,6 +110,21 @@ public class PrincipalVendedor extends javax.swing.JFrame {
                 .addGap(53, 53, 53)
                 .addComponent(jButton7)
                 .addGap(91, 91, 91))
+=======
+                .addGap(43, 43, 43)
+                .addComponent(jButton2)
+                .addGap(44, 44, 44)
+                .addComponent(jButton3)
+                .addGap(53, 53, 53)
+                .addComponent(jButton4)
+                .addGap(58, 58, 58)
+                .addComponent(jButton5)
+                .addGap(46, 46, 46)
+                .addComponent(jButton6)
+                .addGap(55, 55, 55)
+                .addComponent(jButton7)
+                .addContainerGap(70, Short.MAX_VALUE))
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
         );
 
         pack();
@@ -143,6 +172,10 @@ public class PrincipalVendedor extends javax.swing.JFrame {
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton5;
+<<<<<<< HEAD
+=======
+    private javax.swing.JButton jButton6;
+>>>>>>> da3d62d2932949db7a59043fcb697c6c2826a764
     private javax.swing.JButton jButton7;
     private javax.swing.JDesktopPane jDesktopPane1;
     // End of variables declaration//GEN-END:variables
