@@ -227,10 +227,6 @@ public class RegistroVendedores extends javax.swing.JInternalFrame {
             int n= psd.executeUpdate();
              if(n>0){
                JOptionPane.showMessageDialog(this, "Se creo el ususario correctamente");
-               Principal principal = new Principal();
-                principal.setVisible(true);
-                principal.pack();
-                principal.setLocationRelativeTo(null);
                 this.dispose();
              }
               limpiarTextos();
